@@ -20,6 +20,8 @@ The gulp and general structure is based on https://github.com/andysellick/house-
 
 ## Installation
 
+You probably want to just take the code and incorporate it into your own work, but if you'd like to see it up and running as an example:
+
 npm run setup
 
 To run it a second time, just run gulp.
